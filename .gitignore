@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+env/
+
+# Archivos generados
+*.xlsx
+
+# Datos locales
+facturas_xml/
